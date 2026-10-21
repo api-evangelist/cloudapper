@@ -1,0 +1,117 @@
+# CloudApper AI Platform - Enterprise AI-Agent Platform
+
+> CloudApper.ai is an enterprise-ready, no-code/low-code AI agent platform that automates workflows, optimizes operations, and boosts efficiency across Engineering, HR, Sales, Marketing, and more.
+
+## Website Homepage
+
+- [CloudApper AI Platform](https://www.cloudapper.ai/): Discover CloudApper’s AI-powered platform to create and manage AI agents that automate enterprise workflows seamlessly.
+
+## Blog Homepage and Categories
+
+- [Blog Homepage](https://www.cloudapper.ai/blog/): Thought leadership, product updates, and real-world case studies on AI automation.
+- [AI Assistant](https://www.cloudapper.ai/category/ai-assistant/): Insights into AI assistant technology transforming business operations.
+- [AI for Government](https://www.cloudapper.ai/category/ai-for-government/): AI applications tailored to government use cases and compliance.
+- [AI in HCM](https://www.cloudapper.ai/category/ai-in-hcm/): Exploring AI-driven human capital management solutions.
+- [AI RevOps Agent](https://www.cloudapper.ai/category/ai-revops-agent/): AI-driven tools for revenue operations excellence.
+- [AI Technology](https://www.cloudapper.ai/category/ai-technology/): Updates and advancements in AI technology.
+- [AI Time Clock](https://www.cloudapper.ai/category/ai-time-clock/): Intelligent time tracking solutions leveraging AI.
+- [AI TimeClock for Ceridian](https://www.cloudapper.ai/category/ai-time-clock/ceridian/): CloudApper AI TimeClock enhances Ceridian with smarter time tracking, self-service, and workforce automation.
+- [AI TimeClock for Infor](https://www.cloudapper.ai/category/ai-time-clock/infor/): CloudApper AI TimeClock extends Infor’s capabilities through automated attendance, scheduling, and compliance tracking.
+- [AI TimeClock for Oracle HCM](https://www.cloudapper.ai/category/ai-time-clock/oracle-hcm/): CloudApper AI TimeClock complements Oracle HCM by simplifying time capture, workforce visibility, and HR automation.
+- [AI TimeClock for Workday](https://www.cloudapper.ai/category/ai-time-clock/workday/): Learn how CloudApper AI TimeClock boosts Workday functionality with AI-based time capture and workforce automation.
+- [AI Tablet For HR](https://www.cloudapper.ai/category/ai-tablet-for-hr/): Enhanced HR processes using AI-enabled tablets.
+- [Conversational AI](https://www.cloudapper.ai/category/conversational-ai/): Natural language AI for customer and employee engagement.
+- [Employee Self-Service](https://www.cloudapper.ai/category/employee-self-service/): Empowering employees through AI-driven self-service tools.
+- [Enterprise AI](https://www.cloudapper.ai/category/enterprise-ai/): AI strategies and solutions for enterprise transformation.
+- [HR Service Delivery](https://www.cloudapper.ai/category/hr-service-delivery/): Enhancing HR service delivery with AI.
+- [News and Events](https://www.cloudapper.ai/category/news-and-events/): Latest announcements and company events.
+- [No-Code Platform](https://www.cloudapper.ai/category/no-code-platform/): No-code solutions for rapid AI application development.
+- [Talent Acquisition](https://www.cloudapper.ai/category/talent-acquisition/): AI transforming recruitment and hiring.
+
+## Solution Pages - AI Agents By Functions
+
+- [PeopleOPS Agent](https://www.cloudapper.ai/ai-in-hr/): AI agents that automate HCM operations and reduce HR workloads
+- [AI DevAgent](https://www.cloudapper.ai/ai-devagent/): No-code AI agents improving software development workflows.
+- [AI RevOps](https://www.cloudapper.ai/ai-revenue-operations-team/): AI automating revenue operations processes.
+- [AI Agents for Customer Experience](https://www.cloudapper.ai/customer-experience-with-cloudapper-conversational-ai/): Enhancing customer interactions with conversational AI.
+- [AI Agents for Employee Experience](https://www.cloudapper.ai/improve-employee-experience-with-ai/): AI tools improving employee engagement and productivity.
+
+## Solution Pages - AI Agents By Industry
+
+- [AI Agents for Retail](https://www.cloudapper.ai/revolutionize-retail-experience-with-conversational-ai/): Retail-focused AI agent solutions.
+- [AI Agents for Healthcare](https://www.cloudapper.ai/improve-patient-experience-reduce-health-worker-burnout-with-conversational-ai/): AI improving healthcare service delivery.
+- [AI Agents for Manufacturing](https://www.cloudapper.ai/conversational-ai-for-manufacturing-supply-chain/): AI streamlining manufacturing operations.
+- [AI Agents for Finance](https://www.cloudapper.ai/upgrade-banking-financial-service-experience-with-conversational-ai/): AI transforming financial services.
+- [AI Agents for Hospitality](https://www.cloudapper.ai/conversational-ai-for-the-hospitality-industry/): AI solutions for hospitality management.
+- [AI Agents for Sales & Marketing](https://www.cloudapper.ai/win-more-deals-transform-sales-marketing-with-cutting-edge-conversational-ai/): AI for sales and marketing enhancements.
+- [AI Agents for Legal](https://www.cloudapper.ai/conversational-ai-for-legal-services/): Legal industry AI applications.
+- [AI Agents for Education](https://www.cloudapper.ai/conversational-ai-for-schools-colleges-and-universities/): Education-focused AI solutions.
+- [AI Agents for Government](https://www.cloudapper.ai/conversational-ai-for-government/): AI tailored for government operations.
+- [AI Agents for Enterprise](https://www.cloudapper.ai/enterprise-ai-solutions/): Enterprise-wide AI automation tools.
+
+## Solution Pages - AI Agents by Initiative
+
+- [CloudApper AI TimeClock](https://www.cloudapper.ai/employee-timeclock-application/): AI-powered employee time and attendance tracking.
+- [hrPad](https://www.cloudapper.ai/ai-tablet-for-hr/): AI-driven HR tablet for workforce management.
+- [hrGPT](https://www.cloudapper.ai/hrgpt-hcm-automation-solution/): Automate HR tasks using conversational AI.
+- [Text to Apply](https://www.cloudapper.ai/text-to-apply/): Simplify job applications with AI chatbots.
+- [AI Recruiter](https://www.cloudapper.ai/ai-recruiter-conversational-chatbot/): AI-enhanced recruitment automation.
+
+## Solution Pages - Time Clock for HR & Payroll Systems
+
+- [CloudApper AI TimeClock for Workday](https://www.cloudapper.ai/affordable-touchless-biometric-ai-time-clock-for-workday-time-tracking-payroll/): Advanced biometric time tracking for Workday users.
+- [CloudApper AI TimeClock for Oracle](https://www.cloudapper.ai/cloudapper-ai-time-clock-for-oracle/): Oracle-compatible AI time tracking solutions.
+- [CloudApper AI TimeClock for Infor](https://www.cloudapper.ai/cloudapper-ai-time-clock-for-infor/): Time tracking optimized for Infor systems.
+- [CloudApper AI TimeClock for UKG](https://www.cloudapper.ai/cloudapper-ai-time-clock-for-ukg/): Seamless AI time tracking for UKG platforms.
+
+## Solution Pages - AI Agents for Revenue Operations Automation
+
+- [AI CSR Agent](https://www.cloudapper.ai/cloudapper-ai-revenue-operations-team-csr-agent/): AI agent for customer service automation.
+- [AI Sales Agent](https://www.cloudapper.ai/cloudapper-ai-revenue-operations-team-sales-agent/): AI agent for sales engagement.
+- [AI Outreach Agent](https://www.cloudapper.ai/cloudapper-ai-revenue-operations-team-outreach-agent/): AI Agent that automates Email and SMS outreach campaigns..
+- [AI Amplifier Agent](https://www.cloudapper.ai/cloudapper-ai-revenue-operations-team-amplifier-agent/): AI content generation agent for marketing.
+- [AI Scouting Agent](https://www.cloudapper.ai/cloudapper-ai-revenue-operations-team-scouting-agent/): AI agent for automated lead generation and enrichment.
+- [CoreIQ Agent](https://www.cloudapper.ai/cloudapper-ai-revenue-operations-team-coreiq-agent/): AI agent for unified brand knowledge management
+
+## Marketplace
+
+- [CloudApper App Templates Marketplace](https://www.cloudapper.ai/app-templates-marketplace/): Explore prebuilt AI app templates for rapid deployment.
+
+## Features Pages
+
+- [CloudApper Features Overview](https://www.cloudapper.ai/cloudapper-features/): Comprehensive feature set of the CloudApper AI platform.
+- [Enterprise AI Integration Features](https://www.cloudapper.ai/cloudapper-enterprise-ai-integration/): Seamless integration capabilities with enterprise systems.
+
+## Events
+
+- [AI Workshops Home](https://www.cloudapper.ai/ai-workshops/): Interactive AI education for enterprises.
+- [Developer Workshop](https://www.cloudapper.ai/developer-workshop/): Hands-on sessions for AI development.
+- [AI Platform to Expand HCM Capabilities](https://www.cloudapper.ai/ai-platform-to-expand-hcm-capabilities/): Enhancing Human Capital Management with AI.
+- [hrPad Webinar](https://www.cloudapper.ai/hrpad-webinar/): Demonstrations of the hrPad AI tablet.
+- [AI Recruiter Workshop](https://www.cloudapper.ai/ai-recruiter-workshop/): AI-driven recruitment process training.
+
+## Downloadable Resources
+
+- [Resources Home](https://www.cloudapper.ai/resources/): Access case studies, whitepapers, datasheets, and brochures.
+- [Case Studies](https://www.cloudapper.ai/resources-all-case-studies/): Success stories from CloudApper clients.
+- [Whitepapers](https://www.cloudapper.ai/resources-all-whitepaper/): In-depth research and insights.
+- [Datasheets](https://www.cloudapper.ai/resources-all-datasheet/): Technical overviews of CloudApper products.
+- [Brochures](https://www.cloudapper.ai/resources-all-brochure/): Marketing materials and product information.
+
+## CloudApper Platform
+
+- [Agentic AI Platform](https://www.cloudapper.ai/ai-platform-build-integrate-llm-with-enterprise-systems/): Enterprise-grade Agentic AI platform to build, deploy, and integrate LLM agents with business systems.
+- [No Code/Low Code Platform](https://www.cloudapper.ai/no-code-low-code-platform-for-enterprise-software-development/ ): Drag-and-drop no-code/low-code platform for developing and integrating enterprise applications.
+- [AWS Bedrock Solution Development Platform](https://www.cloudapper.ai/simplify-amazon-aws-bedrock-gen-ai-app-development/): Platform for building enterprise GenAI apps on AWS Bedrock with simplified integration and scalability.
+
+## Other Pages
+
+- [SaaS Agreement](https://www.cloudapper.ai/saas-agreement/): Terms and conditions for CloudApper services.
+- [Device Compatibility](https://www.cloudapper.ai/device-compatibility-for-cloudapper-apps/): Supported devices for CloudApper applications.
+- [Partnership Program](https://www.cloudapper.ai/partnership-marketing-program/): Information about CloudApper's partner initiatives.
+- [Privacy Policy](https://www.cloudapper.ai/privacy-policy/): Privacy practices and data protection.
+- [Accessibility Policy](https://www.cloudapper.ai/accessibility/): Commitment to website accessibility.
+- [Contact Us](https://www.cloudapper.ai/contact-us/): Get in touch with CloudApper for inquiries and support.
+
+
+

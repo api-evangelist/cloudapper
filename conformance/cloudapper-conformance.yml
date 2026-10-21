@@ -1,0 +1,12 @@
+generated: '2026-10-20'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://www.cloudapper.ai/privacy-policy/
+sources:
+- https://www.cloudapper.ai/privacy-policy/
+standards:
+- id: soc2
+  conforms: true
+  evidence: At CloudApper AI, we take data security very seriously. That’s why we host data in SOC 2 certified data centers and only work with
+    reputable data center providers.
+docs: https://www.cloudapper.ai/privacy-policy/

@@ -1,0 +1,30 @@
+generated: '2026-10-20'
+method: probed
+source: https://www.cloudapper.ai/privacy-policy/
+signals:
+  data_subject_request:
+    - evidence:
+        source: https://www.cloudapper.ai/privacy-policy/
+        http_status: 200
+        fetched: /tmp/cloudapper_privacy.html
+        quote: "Right to erasure: You have the right to request that we delete your personal information in certain circumstances, such as when it is no longer necessary for the purpose for which it was originally collected."
+        note: Provides a right to erasure request.
+    - evidence:
+        source: https://www.cloudapper.ai/privacy-policy/
+        http_status: 200
+        fetched: /tmp/cloudapper_privacy.html
+        quote: "Right to restriction of processing: You may also have the right to request to restrict the use of your information in certain circumstances, such as when you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it."
+        note: Provides a right to restrict processing.
+    - evidence:
+        source: https://www.cloudapper.ai/privacy-policy/
+        http_status: 200
+        fetched: /tmp/cloudapper_privacy.html
+        quote: "Right to complain: You have the right to complain to the appropriate supervisory authority if you have any grievance against the way we collect, use or share your information."
+        note: Provides a right to lodge a complaint.
+  data_retention:
+    - evidence:
+        source: https://www.cloudapper.ai/privacy-policy/
+        http_status: 200
+        fetched: /tmp/cloudapper_privacy.html
+        quote: "We retain your personal information for as long as it is required for the purposes stated in this Privacy Policy. Sometimes, we may retain your information for longer periods as permitted or required by law... When we no longer have a legitimate need to process your information, we will delete or anonymize your information from our active databases."
+        note: Describes retention period and deletion policy.

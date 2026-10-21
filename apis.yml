@@ -1,23 +1,63 @@
 aid: cloudapper
+
 name: CloudApper
-description: 'CloudApper is a company surfaced via the API Evangelist harvest backlog (source: g2-catalog)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://www.cloudapper.ai/wp-content/uploads/2026/09/cloudapper-ai-modernize-legacy-build-enterprise-apps.jpg
+
+description: 'CloudApper provides a no-code/low-code AI‑powered platform that modernizes legacy enterprise applications across industries such as healthcare, retail, finance, and manufacturing. Their solutions include HR automation, iPaaS integration, conversational AI, and FedRAMP‑ready cloud services, enabling organizations to build, extend, and personalize apps without writing code.'
+
 url: https://raw.githubusercontent.com/api-evangelist/cloudapper/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:g2-catalog
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-20 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-20'
+
 modified: '2026-10-20'
+
 tags:
 - Company
-apis: []
+- AI
+- No-Code
+- Low-Code
+- Enterprise
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: Conformance
+  url: conformance/cloudapper-conformance.yml
+- type: LLMsTxt
+  url: llms/cloudapper-llms.txt
+- type: Hosts
+  url: hosts/cloudapper-hosts.yml
+- type: PrivacyPolicy
+  url: https://www.cloudapper.ai/privacy-policy
+- type: DomainSecurity
+  url: security/cloudapper-domain-security.yml
 - type: Website
   url: https://cloudapper.ai/
+- type: Blog
+  url: https://www.cloudapper.ai/blog
+- type: Support
+  url: https://www.cloudapper.ai/contact-us/
+- type: Documentation
+  url: https://www.cloudapper.ai/
+
+apis: []
+x-enrichment:
+  date: '2026-10-20'
+  status: enriched
+  artifacts_added: 11
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local
